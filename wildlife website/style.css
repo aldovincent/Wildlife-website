@@ -1,0 +1,52 @@
+.banner{
+    background-image: url("images/tiger.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+}
+.nav-item{
+    margin-left: 30px;
+}
+.content{
+    margin-left: 40px;
+}
+.content h1{
+    color:orange;
+    top: 45%;
+    position: absolute;
+    font-family: cursive;
+}
+.content p{
+    color:black;
+    top: 55%;
+    position: absolute;
+    text-align:left;
+    font-family: cursive;
+    font-size: 16px;
+    font-weight: 600;
+
+   
+}
+.btn-info{
+    top:70%;
+    position:absolute;
+    
+}
+.form-control{
+    margin-left:560px;
+}
+ .btn-inline-warning{
+    margin-left: 938px;
+    margin-top: -68px;
+    padding: 20px;
+ }
+.list-unstyled-social{
+    display: flex;
+    list-style-type: none;
+    gap:15px;
+    margin-right:200px;
+}
+
+
